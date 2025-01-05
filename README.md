@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using nested routes in React Router DOM v6. The problem lies in how parameters are passed to nested route components.  The solution provided corrects this behavior by using the useParams hook appropriately within the nested component.
